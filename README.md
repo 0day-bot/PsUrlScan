@@ -120,7 +120,7 @@ Get-UrlScanResult -Uuid bfbc6608-49e5-47cd-a6cd-e8fae81294ed -Type api # This is
 ## FAQ 
 
  - **Can I contribute?**
-   - Please! Check out the project board for ideas!
+   - Please! Submit a pull request at your leisure.
  - **Something's broke.**
    - Please submit an issue for it!
 
